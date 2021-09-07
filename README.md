@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nhangpham
 - 👀 I’m interested in code
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning PHP & serverless
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
